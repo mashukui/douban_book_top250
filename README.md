@@ -1,0 +1,2 @@
+# douban_book_top250
+用python爬取豆瓣读书top250排行榜的榜单数据。
